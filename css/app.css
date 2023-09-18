@@ -75,7 +75,3 @@ select {
 /*👇start custom code👇*/
 
 
-body p:first-of-type {
-  color: pink;
-  font-size: 1em;
-}
