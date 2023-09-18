@@ -74,6 +74,8 @@ select {
 
 /*👇start custom code👇*/
 
-h1 {
-  font-family: yellowtail ;
+
+body p:first-of-type {
+  color: pink;
+  font-size: 1em;
 }
