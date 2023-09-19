@@ -74,11 +74,27 @@ select {
 
 /*👇start custom code👇*/
 
+body{
+  font-family: 'Dancing Script', cursive;
+  font-size: 20pt;
+  text-align: left;
+  background-color: lightpink;
+}
 
+header{
+  font-size: 20px;
+  border: 2px solid palevioletred;
+}
   p {
-    width: 100em;
-    height: 50em;
-    padding: 20em;
-    border: 1px solid;
+    width: 40em;
+    height: 10em;
+    padding: 10em;
+    text-align: left;
   }
 
+img {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
